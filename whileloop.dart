@@ -24,7 +24,6 @@ void main() {
 
     int price = 0;
 
-    //switch case
     switch (pizza_size) {
       case 'small':
         price = 5;
